@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tech: HTTPX](https://img.shields.io/badge/Tech-HTTPX-brightgreen.svg)](#)
 
+> [!NOTE]
+> This scraper is fully functional but not scheduled to run automatically. Run manually with `python one_mg_scraper.py`.
+
+
 Consolidated suite of asynchronous scrapers targeting medical product data, catalogs, and pricing from Tata 1mg, Apollo Pharmacy, and PharmEasy.
 
 ---
