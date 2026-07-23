@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Configuration and secrets
+.env
+.env.*
+config.cfg
+*.cfg
+*.json
+cache/
+cache_*/
+.cache/
+
+# Execution outputs
+*.log
+output/
+logs/
+*.csv
+*.xlsx
